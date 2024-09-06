@@ -30,3 +30,9 @@ h1 {
   text-align: center;
   margin: 16px 200px;
 }
+
+p {
+  font-size: 1.5rem;
+  font-weight: 100;
+  text-align: center;
+}
